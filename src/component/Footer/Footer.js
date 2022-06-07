@@ -15,16 +15,16 @@ const Container = styled.div`
 `
 const Wrapper = styled.div`
 
-@media screen and (max-width: 580px) {
-  padding-right: 15%;
+  @media screen and (max-width: 580px) {
+    padding-right: 15%;
+      
+  }
    
-}
-  
-  
 `
 const DevName = styled.h2`
   text-align: center;
   margin-top: 40px;
+
 `
 
 const Ul = styled.ul`
@@ -32,7 +32,10 @@ const Ul = styled.ul`
   justify-content: space-between;
   margin-top: 60px;
   margin-bottom: 40px;
-`gi init
+
+`
+
+
 const Li = styled.li`
   list-style: none;
   
