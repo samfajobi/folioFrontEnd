@@ -172,7 +172,6 @@ const Contact = () => {
 
   axios.post("/api/form", formData).then( (response) => {
     console.loog(response)
-    setSent(true)
     
   }).catch( (err) => {
     console.log(err)
