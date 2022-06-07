@@ -74,7 +74,7 @@ const ContactLctn = styled.div`
   margin-top: 25px;
   
 `
-const Span = styled.div``
+
 const ContactNo = styled.div`
   display: flex;
   margin: 20px 0px;
@@ -157,7 +157,7 @@ const Contact = () => {
   const [ senderEmail, setSenderEmail]  = useState('')
   const [ number, setNumber]  = useState('')
   const [ message, setMessage ]  = useState('')
-  const [ sent, setSent ] = useState(false)
+ 
 
 
   
@@ -170,8 +170,8 @@ const Contact = () => {
     message: message
   }
 
-  axios.post("/api/form", formData).
-  then( (response) => {
+  axios.post("/api/form", formData).then( (response) => {
+    console.loog(response)
     setSent(true)
     
   }).catch( (err) => {

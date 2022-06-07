@@ -76,30 +76,9 @@ const A = styled.a`
   
 `
 
-const Content = styled.div`
-    content: " ";
-    margin-top: 15px;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    margin-left: 38px; 
-    width: 3px;
-    height: 21%;
-    background-color: black;
-`
 
-const RightContent = styled.div` 
-   content: " ";
-   margin-top: 15px;
-   position: absolute;
-   bottom: 0;
-   right: 0;
-   margin-right: 4.25%; 
-   width: 3px;      
-   height: 21%;
-   background-color: black;
-  
-`
+
+
 
 const RightSideIcon = styled.div`
   position: absolute;
@@ -223,7 +202,7 @@ const Icons = styled.div`
 
 const HomeSection = () => {
 
-  const Home = useRef(null)
+
   
   return (
     <Container>

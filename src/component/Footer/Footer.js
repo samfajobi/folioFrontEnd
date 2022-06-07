@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import GitHub from '@material-ui/icons/GitHub';
 import WhatsApp from '@material-ui/icons/WhatsApp';
-import CopyrightIcon from '@material-ui/icons/Copyright';
+
 
 
 const Container = styled.div`
