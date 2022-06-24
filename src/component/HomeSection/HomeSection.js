@@ -248,6 +248,7 @@ const HomeSection = () => {
             <Icons><BuildOutlinedIcon/></Icons>
             <Icons><ContactsOutlinedIcon/></Icons>
           </NavIcons>
+          
         </ProfileInfo>
         <RightSideIcon>
           <A href="https://wa.me/08153382359" >

@@ -161,13 +161,13 @@ const App = () => {
      </Container>
      
      <SmallContainer>
-     <HomeSection />
-     <AboutSection About={About}/>
-     <ProjectSec Project={Project}/>
-     <SkillsSection Skill={Skill}/>
-     <ServiceTools Tool={Tool}/>
-     <Contact />
-     <Footer />
+        <HomeSection />
+        <AboutSection About={About}/>
+        <ProjectSec Project={Project}/>
+        <SkillsSection Skill={Skill}/>
+        <ServiceTools Tool={Tool}/>
+        <Contact />
+        <Footer />
      </SmallContainer>
      
     </BigContainer>
