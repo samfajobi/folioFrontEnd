@@ -30,7 +30,11 @@ const Icons = styled.div`
   display: flex;
   margin: 30px 0px;
 `
-const Image = styled.img``
+const Image = styled.img`
+  width: 90px;
+  height: 90px;
+  
+`
 const IconName = styled.div``
 const Icon1 = styled.div`
   flex: 1;
@@ -55,26 +59,26 @@ const ServiceTools = (props) => {
            <Desc>Here are some tools I have used in my projects</Desc>
            <Icons>
                <Icon1>
-                   <Image src='/images/gitIcon.png' />
-                   <IconName>HTML 5</IconName>
+                   <Image src='/images/VSC.png' />
+                   <IconName>Visual Studio Code</IconName>
                </Icon1>
                <Icon2>
-                   <Image src='/html.png' />
-                   <IconName>HTML 5</IconName>
+                   <Image src='/images/gitIcon.png' />
+                   <IconName>Git</IconName>
                </Icon2>
                <Icon3>
-               <Image src='/html.png' />
-                   <IconName>HTML 5</IconName>
+               <Image src='/images/webpack2.png' />
+                   <IconName>Webpack</IconName>
                </Icon3>
                <Icon4>
-               <Image src='/html.png' />
-                   <IconName>HTML 5</IconName>
+               <Image src='/images/npm2.png' />
+                   <IconName>npm</IconName>
                </Icon4>
            </Icons> 
            <Icons>
                <Icon1>
-                   <Image src='/html.png' />
-                   <IconName>HTML 5</IconName>
+                   <Image src='/images/babel.png' />
+                   <IconName>Babel</IconName>
                </Icon1>
                <Icon2>
                    <Image src='/html.png' />
