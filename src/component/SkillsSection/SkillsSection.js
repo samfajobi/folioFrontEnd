@@ -95,17 +95,17 @@ const SkillsSection = (props) => {
                </Icon2>
                <Icon3>
                <Image src='/images/javascript.png' />
-                   <IconName>HTML 5</IconName>
+                  <IconName>JavaScript</IconName>
                </Icon3>
                <Icon4>
                <Image src='/images/typescript-96.png' />
-                   <IconName>HTML 5</IconName>
+                  <IconName>TypeScript</IconName>
                </Icon4>
            </Icons> 
            <Icons>
                <Icon1>
                    <Image src='/images/sass-100.png' />
-                   <IconName>TYPESCRIPT</IconName>
+                   <IconName>SASS</IconName>
                </Icon1>
                <Icon2>
                    <Image src='/images/react-80.png' />
@@ -130,11 +130,11 @@ const SkillsSection = (props) => {
                    <IconName>AWS</IconName>
                </Icon2>
                <Icon3>
-               <Image src='/html.png' />
-                   <IconName>HTML 5</IconName>
+               <Image src='/images/next.js.png' />
+                   <IconName>Next.js</IconName>
                </Icon3>
                <Icon4>
-               <Image src='/html.png' />
+               <Image src='/images/firebase.png' />
                    <IconName>HTML 5</IconName>
                </Icon4>
            </Icons> 

@@ -104,7 +104,7 @@ const Li = styled.li`
   list-style: none;
   cursor: pointer;
   text-decoration: none;
-  color: ;
+ 
 
   &:hover {
     color: #058489;
@@ -133,6 +133,7 @@ const App = () => {
       behavior: 'smooth'
     })
   }
+
 
   return (
     
@@ -169,7 +170,7 @@ const App = () => {
      <Footer />
      </SmallContainer>
      
-   </BigContainer>
+    </BigContainer>
  
    
   )
