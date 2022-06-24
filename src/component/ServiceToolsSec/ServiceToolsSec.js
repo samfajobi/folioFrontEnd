@@ -81,34 +81,34 @@ const ServiceTools = (props) => {
                    <IconName>Babel</IconName>
                </Icon1>
                <Icon2>
-                   <Image src='/html.png' />
-                   <IconName>HTML 5</IconName>
+                   <Image src='/images/slack.png' />
+                   <IconName>Slack</IconName>
                </Icon2>
                <Icon3>
-               <Image src='/html.png' />
-                   <IconName>HTML 5</IconName>
+               <Image src='/images/postman.png' />
+                   <IconName>Postman</IconName>
                </Icon3>
                <Icon4>
-               <Image src='/html.png' />
-                   <IconName>HTML 5</IconName>
+               <Image src='/images/sublime.png' />
+                   <IconName>Sublime Text</IconName>
                </Icon4>
            </Icons> 
            <Icons>
                <Icon1>
-                   <Image src='/html.png' />
-                   <IconName>HTML 5</IconName>
+                   <Image src='/images/netlify.png' />
+                   <IconName>Netlify</IconName>
                </Icon1>
                <Icon2>
-                   <Image src='/html.png' />
-                   <IconName>HTML 5</IconName>
+                   <Image src='/images/heroku.png' />
+                   <IconName>Heroku</IconName>
                </Icon2>
                <Icon3>
-               <Image src='/html.png' />
-                   <IconName>HTML 5</IconName>
+               <Image src='/images/nginx.png' />
+                   <IconName>Nginx</IconName>
                </Icon3>
                <Icon4>
-               <Image src='/html.png' />
-                   <IconName>HTML 5</IconName>
+               <Image src='/images/figma.png' />
+                   <IconName>Figma</IconName>
                </Icon4>
            </Icons> 
        </Wrapper>
