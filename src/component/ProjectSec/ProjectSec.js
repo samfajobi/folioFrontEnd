@@ -172,7 +172,7 @@ const ProjectSec = (props) => {
                 </ProjectDesc>
                 <ProjIcons>
                 <A href='https://github.com/samfajobi/AChatAppWithReactJsAndNodeJs'><GitHub><GitHubIcon/></GitHub></A>
-                <A href="" ><WebIcon><LanguageIcon /></WebIcon></A>
+                <A href="https://achatappwithreact.netlify.app/chat" ><WebIcon><LanguageIcon /></WebIcon></A>
                 </ProjIcons>
               </ProjectCard3>
       
